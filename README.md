@@ -1,7 +1,8 @@
 ![](https://github.com/tg-inet-Team-A/main/blob/main/fig1.png?raw=true)
 # 概要
 東京iネットハッカソン2020のプロジェクトです．  
-スマートメーター情報を用いて，早朝起きている人の数をエリアごとに共有するサービスです．  
+スマートメーター情報を用いて，早朝起きている人の数をエリアごとに共有するサービスです．   
+![](https://github.com/tg-inet-Team-A/main/blob/main/fig4.png?raw=true)
 
 # 内容
 ![](https://github.com/tg-inet-Team-A/main/blob/main/fig2.png?raw=true)
